@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>788</width>
-    <height>572</height>
+    <width>610</width>
+    <height>520</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -21,7 +21,7 @@
     <item>
      <layout class="QVBoxLayout" name="verticalLayout">
       <item>
-       <widget class="QListView" name="LstNotes"/>
+       <widget class="QTableView" name="TblNotes"/>
       </item>
       <item>
        <layout class="QHBoxLayout" name="horizontalLayout">
@@ -57,7 +57,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>788</width>
+     <width>610</width>
      <height>25</height>
     </rect>
    </property>
