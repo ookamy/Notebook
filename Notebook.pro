@@ -11,11 +11,13 @@ CONFIG += c++17
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
-    notesmodel.cpp
+    notesmodel.cpp \
+    notesprovider.cpp
 
 HEADERS += \
     mainwindow.h \
-    notesmodel.h
+    notesmodel.h \
+    notesprovider.h
 
 FORMS += \
     mainwindow.ui
