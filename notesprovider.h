@@ -13,10 +13,15 @@ struct NoteHeader
     QDateTime createdDateTime;
 };
 
-class Note
+struct NoteContent
+{
+    QString text;
+};
+
+struct Note
 {
     NoteHeader header;
-    QString content;
+    NoteContent content;
 };
 
 

@@ -8,6 +8,8 @@
 #include <QDateTime>
 #include <QString>
 
+struct NoteHeader;
+
 class NotesModel : public QAbstractTableModel
 {
     Q_OBJECT

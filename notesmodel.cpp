@@ -1,4 +1,5 @@
 #include "notesmodel.h"
+#include "notesprovider.h"
 
 namespace
 {

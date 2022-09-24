@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "notesmodel.h"
+#include "notesprovider.h"
 
 #include <QTimer>
 
